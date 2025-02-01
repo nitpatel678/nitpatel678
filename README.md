@@ -1,5 +1,4 @@
-
-#💫 About Me :
+# 💫 About Me:
 Hi, I'm **Nitin Patel**, a dedicated engineer with interests in Artificial Intelligence, Machine Learning and i'm a Full-Stack Developer. I thrive on building innovative solutions and leveraging my strong problem-solving skills to create impactful projects. Let's collaborate and bring ideas to life!
 
 # 💻 Tech Stack:
